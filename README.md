@@ -16,7 +16,12 @@ import numpy as np
 import geopy
 ```
 
+## What are those code do?
 * Step 1: to claen up the data and get the coordinate of (lat, long) for furture calculation.
 * Step 2: Calculate distance based on the coordinate.
 * Step 3: Get the popualtion for each WorkID
 * Step 4: Get the WorkID for Hos, Fire, and Police station
+
+## Things to improve
+
+* I need to make each step as fuction, which will be much easier to use.
